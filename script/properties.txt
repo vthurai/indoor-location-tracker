@@ -1,0 +1,4 @@
+[Gateway Properties]
+rpi= rpiA
+topic = projects/iot-myday/topics/NewAdvertisement
+knownUUID = f7826da64fa24e988024bc5b71e089ff,f7826da64fa24e988024bc5b71e0abcd
