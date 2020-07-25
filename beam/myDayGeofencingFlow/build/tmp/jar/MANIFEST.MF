@@ -1,5 +1,0 @@
-Manifest-Version: 1.0
-Implementation-Title: myDayGeofencingFlow
-Implementation-Version: 0.0.1
-Main-Class: com.main.Application
-
